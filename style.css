@@ -3,6 +3,7 @@
 /*This is the background of the site*/
 body {
   background: black;
+  color: green;
 }
 
 
@@ -14,7 +15,7 @@ body {
 /*This is the code for the cool typing effect for the title*/
 .typewriter h1 {
     font-family: 'Courier New';
-    color: white;
+    color: green;
     letter-spacing: .17em;
     margin: 0 auto;
     overflow: hidden;
